@@ -1,0 +1,8 @@
+### Arquivo para gerar matriz de confusão
+## Foi realizada uma anotação visual das aves em 897 frames em videos de um experimento.
+
+## O arquivo predito.txt e real.txt contagem da quantidade de aves visualizadas e com marcação em vídeos semelhantes ao final_clip.mp4
+
+## os códigos em python são códigos para manipular os arquivos (Unir vídeos e gerar a matriz de confusão)
+
+s
